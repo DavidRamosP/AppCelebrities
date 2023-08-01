@@ -1,4 +1,4 @@
-package com.cibertec.repasorecyclerviewactivity.adapter
+package com.cibertec.appcelebrity.adapter
 
 import android.view.LayoutInflater
 import android.view.View
@@ -6,9 +6,9 @@ import androidx.recyclerview.widget.RecyclerView
 import androidx.recyclerview.widget.RecyclerView.ViewHolder
 import androidx.recyclerview.widget.RecyclerView.inflate
 import com.bumptech.glide.Glide
-import com.cibertec.repasorecyclerviewactivity.Celebrity
-import com.cibertec.repasorecyclerviewactivity.R
-import com.cibertec.repasorecyclerviewactivity.databinding.ItemCelebrityBinding
+import com.cibertec.appcelebrity.Celebrity
+import com.cibertec.appcelebrity.R
+import com.cibertec.appcelebrity.databinding.ItemCelebrityBinding
 
 
 class ViewHolderCel(view:View) :RecyclerView.ViewHolder(view) {

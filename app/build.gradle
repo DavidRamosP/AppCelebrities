@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.cibertec.repasorecyclerviewactivity'
+    namespace 'com.cibertec.appcelebrity'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.cibertec.repasorecyclerviewactivity"
+        applicationId "com.cibertec.appcelebrity"
         minSdk 24
         targetSdk 33
         versionCode 1

@@ -1,10 +1,11 @@
-package com.cibertec.repasorecyclerviewactivity.adapter
+package com.cibertec.appcelebrity.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.cibertec.repasorecyclerviewactivity.Celebrity
-import com.cibertec.repasorecyclerviewactivity.R
+import com.cibertec.appcelebrity.R
+import com.cibertec.appcelebrity.Celebrity
+
 
 class AdapterCel(private var celebrities:List<Celebrity>, private val click:(Celebrity)->Unit, private val borrar:(Int)->Unit) : RecyclerView.Adapter<ViewHolderCel>(){
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolderCel {

@@ -1,4 +1,4 @@
-package com.cibertec.repasorecyclerviewactivity
+package com.cibertec.appcelebrity
 
 class DataCelebrity {
 

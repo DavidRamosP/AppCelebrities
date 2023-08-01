@@ -1,4 +1,4 @@
-package com.cibertec.repasorecyclerviewactivity
+package com.cibertec.appcelebrity
 
 import android.app.Dialog
 import androidx.appcompat.app.AppCompatActivity
@@ -7,8 +7,8 @@ import android.view.LayoutInflater
 import android.widget.Toast
 import androidx.core.widget.addTextChangedListener
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.cibertec.repasorecyclerviewactivity.adapter.AdapterCel
-import com.cibertec.repasorecyclerviewactivity.databinding.ActivityMainBinding
+import com.cibertec.appcelebrity.adapter.AdapterCel
+import com.cibertec.appcelebrity.databinding.ActivityMainBinding
 
 
 
