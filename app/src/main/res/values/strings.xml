@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppCelebrity</string>
+    <string name="name">Nombre</string>
+    <string name="email">Email</string>
+    <string name="delete">Borrar</string>
+    <string name="filtro">Filtro por Nombres</string>
+</resources>
